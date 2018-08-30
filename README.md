@@ -1,1 +1,1 @@
-# ipfs-message-upload
+# ipfs-message
